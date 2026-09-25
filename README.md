@@ -9,6 +9,17 @@ The report is structured around:
 - `DimProduct`
 - `DimCustomer`
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Product Analysis
+![Product Analysis](screenshots/product_analysis.png)
+
+### Customer Analysis
+![Customer Analysis](screenshots/customer_analysis.png)
+
 ## Dashboard Pages
 1. **Executive Overview** — core commercial KPIs and high-level sales trends
 2. **Product Analysis** — product sales, quantity, selling price, and product rankings
